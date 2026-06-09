@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io-error-handling",
+      "title": "File I/O and Error Handling",
+      "description": "Read and write files in Python and handle runtime errors gracefully using try/except/finally",
+      "path": "assignments/file-io-error-handling",
+      "dueDate": "2026-06-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
